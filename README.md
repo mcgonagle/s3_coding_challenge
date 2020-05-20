@@ -32,3 +32,12 @@ AWS Secret Access Key [None]:
 Default region name [None]: 
 Default output format [None]:
 ```
+
+## Running the script 
+```
+Usage: ./mcgonagle*/buck_ls.sh
+	-b to display bytes
+	-k to display kilobytes
+	-m to display megabytes
+	-g to display gigabytes
+ ```
